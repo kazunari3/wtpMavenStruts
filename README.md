@@ -19,6 +19,9 @@ How to create this project
 * crate forlder "hoge" under "Java Resources->src"
 * add struts.xml under "hoge"
 * add EchoAction.java under "src"
+* opne URL `http://localhost:8080/wtpMavenStruts/input.jsp`
+
+![代替テキスト](https://github.com/kazunari3/wtpMavenStruts/blob/master/input.png "画像タイトル")
 
 Eclipse Java EE IDE for Web Developers.
 
